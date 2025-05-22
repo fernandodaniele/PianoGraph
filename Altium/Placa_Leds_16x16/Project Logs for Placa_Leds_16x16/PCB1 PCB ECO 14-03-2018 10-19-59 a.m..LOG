@@ -1,0 +1,260 @@
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D9-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D10-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D11-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D12-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D13-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D14-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D15-1
+Removed Pin From Net: NetName=NetAnodos1_1 Pin=D16-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D25-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D26-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D27-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D28-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D29-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D30-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D31-1
+Removed Pin From Net: NetName=NetAnodos1_2 Pin=D32-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D41-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D42-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D43-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D44-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D45-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D46-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D47-1
+Removed Pin From Net: NetName=NetAnodos1_3 Pin=D48-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D57-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D58-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D59-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D60-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D61-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D62-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D63-1
+Removed Pin From Net: NetName=NetAnodos1_4 Pin=D64-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D73-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D74-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D75-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D76-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D77-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D78-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D79-1
+Removed Pin From Net: NetName=NetAnodos1_5 Pin=D80-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D89-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D90-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D91-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D92-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D93-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D94-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D95-1
+Removed Pin From Net: NetName=NetAnodos1_6 Pin=D96-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D105-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D106-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D107-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D108-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D109-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D110-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D111-1
+Removed Pin From Net: NetName=NetAnodos1_7 Pin=D112-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D121-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D122-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D123-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D124-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D125-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D126-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D127-1
+Removed Pin From Net: NetName=NetAnodos1_8 Pin=D128-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D137-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D138-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D139-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D140-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D141-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D142-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D143-1
+Removed Pin From Net: NetName=NetAnodos1_9 Pin=D144-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D153-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D154-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D155-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D156-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D157-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D158-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D159-1
+Removed Pin From Net: NetName=NetAnodos1_10 Pin=D160-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D169-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D170-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D171-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D172-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D173-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D174-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D175-1
+Removed Pin From Net: NetName=NetAnodos1_11 Pin=D176-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D185-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D186-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D187-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D188-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D189-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D190-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D191-1
+Removed Pin From Net: NetName=NetAnodos1_12 Pin=D192-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D201-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D202-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D203-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D204-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D205-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D206-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D207-1
+Removed Pin From Net: NetName=NetAnodos1_13 Pin=D208-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D217-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D218-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D219-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D220-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D221-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D222-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D223-1
+Removed Pin From Net: NetName=NetAnodos1_14 Pin=D224-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D233-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D234-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D235-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D236-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D237-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D238-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D239-1
+Removed Pin From Net: NetName=NetAnodos1_15 Pin=D240-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D249-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D250-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D251-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D252-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D253-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D254-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D255-1
+Removed Pin From Net: NetName=NetAnodos1_16 Pin=D256-1
+Removed Member From Class: ClassName=Esquematico LEDS Member=D9
+Removed Member From Class: ClassName=Esquematico LEDS Member=D10
+Removed Member From Class: ClassName=Esquematico LEDS Member=D11
+Removed Member From Class: ClassName=Esquematico LEDS Member=D12
+Removed Member From Class: ClassName=Esquematico LEDS Member=D13
+Removed Member From Class: ClassName=Esquematico LEDS Member=D14
+Removed Member From Class: ClassName=Esquematico LEDS Member=D15
+Removed Member From Class: ClassName=Esquematico LEDS Member=D16
+Removed Member From Class: ClassName=Esquematico LEDS Member=D25
+Removed Member From Class: ClassName=Esquematico LEDS Member=D26
+Removed Member From Class: ClassName=Esquematico LEDS Member=D27
+Removed Member From Class: ClassName=Esquematico LEDS Member=D28
+Removed Member From Class: ClassName=Esquematico LEDS Member=D29
+Removed Member From Class: ClassName=Esquematico LEDS Member=D30
+Removed Member From Class: ClassName=Esquematico LEDS Member=D31
+Removed Member From Class: ClassName=Esquematico LEDS Member=D32
+Removed Member From Class: ClassName=Esquematico LEDS Member=D41
+Removed Member From Class: ClassName=Esquematico LEDS Member=D42
+Removed Member From Class: ClassName=Esquematico LEDS Member=D43
+Removed Member From Class: ClassName=Esquematico LEDS Member=D44
+Removed Member From Class: ClassName=Esquematico LEDS Member=D45
+Removed Member From Class: ClassName=Esquematico LEDS Member=D46
+Removed Member From Class: ClassName=Esquematico LEDS Member=D47
+Removed Member From Class: ClassName=Esquematico LEDS Member=D48
+Removed Member From Class: ClassName=Esquematico LEDS Member=D57
+Removed Member From Class: ClassName=Esquematico LEDS Member=D58
+Removed Member From Class: ClassName=Esquematico LEDS Member=D59
+Removed Member From Class: ClassName=Esquematico LEDS Member=D60
+Removed Member From Class: ClassName=Esquematico LEDS Member=D61
+Removed Member From Class: ClassName=Esquematico LEDS Member=D62
+Removed Member From Class: ClassName=Esquematico LEDS Member=D63
+Removed Member From Class: ClassName=Esquematico LEDS Member=D64
+Removed Member From Class: ClassName=Esquematico LEDS Member=D73
+Removed Member From Class: ClassName=Esquematico LEDS Member=D74
+Removed Member From Class: ClassName=Esquematico LEDS Member=D75
+Removed Member From Class: ClassName=Esquematico LEDS Member=D76
+Removed Member From Class: ClassName=Esquematico LEDS Member=D77
+Removed Member From Class: ClassName=Esquematico LEDS Member=D78
+Removed Member From Class: ClassName=Esquematico LEDS Member=D79
+Removed Member From Class: ClassName=Esquematico LEDS Member=D80
+Removed Member From Class: ClassName=Esquematico LEDS Member=D89
+Removed Member From Class: ClassName=Esquematico LEDS Member=D90
+Removed Member From Class: ClassName=Esquematico LEDS Member=D91
+Removed Member From Class: ClassName=Esquematico LEDS Member=D92
+Removed Member From Class: ClassName=Esquematico LEDS Member=D93
+Removed Member From Class: ClassName=Esquematico LEDS Member=D94
+Removed Member From Class: ClassName=Esquematico LEDS Member=D95
+Removed Member From Class: ClassName=Esquematico LEDS Member=D96
+Removed Member From Class: ClassName=Esquematico LEDS Member=D105
+Removed Member From Class: ClassName=Esquematico LEDS Member=D106
+Removed Member From Class: ClassName=Esquematico LEDS Member=D107
+Removed Member From Class: ClassName=Esquematico LEDS Member=D108
+Removed Member From Class: ClassName=Esquematico LEDS Member=D109
+Removed Member From Class: ClassName=Esquematico LEDS Member=D110
+Removed Member From Class: ClassName=Esquematico LEDS Member=D111
+Removed Member From Class: ClassName=Esquematico LEDS Member=D112
+Removed Member From Class: ClassName=Esquematico LEDS Member=D121
+Removed Member From Class: ClassName=Esquematico LEDS Member=D122
+Removed Member From Class: ClassName=Esquematico LEDS Member=D123
+Removed Member From Class: ClassName=Esquematico LEDS Member=D124
+Removed Member From Class: ClassName=Esquematico LEDS Member=D125
+Removed Member From Class: ClassName=Esquematico LEDS Member=D126
+Removed Member From Class: ClassName=Esquematico LEDS Member=D127
+Removed Member From Class: ClassName=Esquematico LEDS Member=D128
+Removed Member From Class: ClassName=Esquematico LEDS Member=D137
+Removed Member From Class: ClassName=Esquematico LEDS Member=D138
+Removed Member From Class: ClassName=Esquematico LEDS Member=D139
+Removed Member From Class: ClassName=Esquematico LEDS Member=D140
+Removed Member From Class: ClassName=Esquematico LEDS Member=D141
+Removed Member From Class: ClassName=Esquematico LEDS Member=D142
+Removed Member From Class: ClassName=Esquematico LEDS Member=D143
+Removed Member From Class: ClassName=Esquematico LEDS Member=D144
+Removed Member From Class: ClassName=Esquematico LEDS Member=D153
+Removed Member From Class: ClassName=Esquematico LEDS Member=D154
+Removed Member From Class: ClassName=Esquematico LEDS Member=D155
+Removed Member From Class: ClassName=Esquematico LEDS Member=D156
+Removed Member From Class: ClassName=Esquematico LEDS Member=D157
+Removed Member From Class: ClassName=Esquematico LEDS Member=D158
+Removed Member From Class: ClassName=Esquematico LEDS Member=D159
+Removed Member From Class: ClassName=Esquematico LEDS Member=D160
+Removed Member From Class: ClassName=Esquematico LEDS Member=D169
+Removed Member From Class: ClassName=Esquematico LEDS Member=D170
+Removed Member From Class: ClassName=Esquematico LEDS Member=D171
+Removed Member From Class: ClassName=Esquematico LEDS Member=D172
+Removed Member From Class: ClassName=Esquematico LEDS Member=D173
+Removed Member From Class: ClassName=Esquematico LEDS Member=D174
+Removed Member From Class: ClassName=Esquematico LEDS Member=D175
+Removed Member From Class: ClassName=Esquematico LEDS Member=D176
+Removed Member From Class: ClassName=Esquematico LEDS Member=D185
+Removed Member From Class: ClassName=Esquematico LEDS Member=D186
+Removed Member From Class: ClassName=Esquematico LEDS Member=D187
+Removed Member From Class: ClassName=Esquematico LEDS Member=D188
+Removed Member From Class: ClassName=Esquematico LEDS Member=D189
+Removed Member From Class: ClassName=Esquematico LEDS Member=D190
+Removed Member From Class: ClassName=Esquematico LEDS Member=D191
+Removed Member From Class: ClassName=Esquematico LEDS Member=D192
+Removed Member From Class: ClassName=Esquematico LEDS Member=D201
+Removed Member From Class: ClassName=Esquematico LEDS Member=D202
+Removed Member From Class: ClassName=Esquematico LEDS Member=D203
+Removed Member From Class: ClassName=Esquematico LEDS Member=D204
+Removed Member From Class: ClassName=Esquematico LEDS Member=D205
+Removed Member From Class: ClassName=Esquematico LEDS Member=D206
+Removed Member From Class: ClassName=Esquematico LEDS Member=D207
+Removed Member From Class: ClassName=Esquematico LEDS Member=D208
+Removed Member From Class: ClassName=Esquematico LEDS Member=D217
+Removed Member From Class: ClassName=Esquematico LEDS Member=D218
+Removed Member From Class: ClassName=Esquematico LEDS Member=D219
+Removed Member From Class: ClassName=Esquematico LEDS Member=D220
+Removed Member From Class: ClassName=Esquematico LEDS Member=D221
+Removed Member From Class: ClassName=Esquematico LEDS Member=D222
+Removed Member From Class: ClassName=Esquematico LEDS Member=D223
+Removed Member From Class: ClassName=Esquematico LEDS Member=D224
+Removed Member From Class: ClassName=Esquematico LEDS Member=D233
+Removed Member From Class: ClassName=Esquematico LEDS Member=D234
+Removed Member From Class: ClassName=Esquematico LEDS Member=D235
+Removed Member From Class: ClassName=Esquematico LEDS Member=D236
+Removed Member From Class: ClassName=Esquematico LEDS Member=D237
+Removed Member From Class: ClassName=Esquematico LEDS Member=D238
+Removed Member From Class: ClassName=Esquematico LEDS Member=D239
+Removed Member From Class: ClassName=Esquematico LEDS Member=D240
+Removed Member From Class: ClassName=Esquematico LEDS Member=D249
+Removed Member From Class: ClassName=Esquematico LEDS Member=D250
+Removed Member From Class: ClassName=Esquematico LEDS Member=D251
+Removed Member From Class: ClassName=Esquematico LEDS Member=D252
+Removed Member From Class: ClassName=Esquematico LEDS Member=D253
+Removed Member From Class: ClassName=Esquematico LEDS Member=D254
+Removed Member From Class: ClassName=Esquematico LEDS Member=D255
+Removed Member From Class: ClassName=Esquematico LEDS Member=D256
+Change Class Name : Old Net Name=Esquematico LEDS New Net Name=Esquematico LEDS 8x16
+Added Member To Class: ClassName=Esquematico LEDS 8x16 Member=Component Anodos2 Header 8X2
+Change Room Name: Old Name=Esquematico LEDS New Name=Esquematico LEDS 8x16
+Change Room Scope: Old Scope=InComponentClass('Esquematico LEDS') New Scope=InComponentClass('Esquematico LEDS 8x16')

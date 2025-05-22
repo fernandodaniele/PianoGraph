@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">PIANO GRAPH!</string>
+    <string name="action_settings">CONFIGURACIÓN</string>
+    <string name="none_paired">NO SE PUEDE VINCULAR DISPOSITIVO</string>
+    <string name="conectando">CONECTANDO...</string>
+    <string name="puntaje">PUNTAJE = %1$s</string>
+    <string name="muestreo">MUESTREO DE PANTALLA </string>
+    <string name="abrir">ABRIR ARCHIVO MIDI</string>
+    <string name="reproduciendo">REPRODUCIENDO...</string>
+
+
+</resources>

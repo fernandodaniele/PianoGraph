@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="linearSeparador">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="action_settings">Configuracion</string>
+    <string name="app_name">PianoGraph!</string>
+    <string name="none_paired">No se puede vincular dispositivo</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fernandodaniele\Desktop\Tesis-provisorio\Explorador\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a0278f9ffb548fe8a446ca11d01ee12977a2eee">
+        <dex dex="C:\Users\fernandodaniele\Desktop\Tesis-provisorio\Explorador\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18ab4984b9543d33b6d293fc1ce5e18cd779a99b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fernandodaniele\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\fernandodaniele\Desktop\Tesis-provisorio\Explorador\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_e600d65e25e00c0cfdbf21976e9f22ba01cea756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fernandodaniele\Desktop\Tesis-provisorio\Explorador\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\fernandodaniele\Desktop\Tesis-provisorio\Explorador\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94bed8a95da15fb1d4dc2eeea7a66f9382f7dcdd\classes.dex" />
+    </item>
+
+</items>

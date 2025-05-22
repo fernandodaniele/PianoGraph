@@ -1,0 +1,7 @@
+#Sun Jun 25 15:18:00 ART 2017
+base.0=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94bed8a95da15fb1d4dc2eeea7a66f9382f7dcdd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18ab4984b9543d33b6d293fc1ce5e18cd779a99b\\classes.dex
+base.1=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18ab4984b9543d33b6d293fc1ce5e18cd779a99b
+file.0=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94bed8a95da15fb1d4dc2eeea7a66f9382f7dcdd\\classes.dex

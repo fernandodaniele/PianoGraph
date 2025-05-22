@@ -1,0 +1,178 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:id="@+id/scrollView">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/linearContenedor">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_above="@+id/linearContenedorProbarConexion"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Conexion">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="26dp"
+                        android:layout_marginEnd="41dp"
+                        android:layout_marginRight="41dp"
+                        android:layout_toLeftOf="@+id/sensorView0"
+                        android:layout_toStartOf="@+id/sensorView0"
+                        android:text="Elige una melodía"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    <TextView
+                        android:id="@+id/lentitud"
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:layout_marginRight="15dp"
+                        android:gravity="center_horizontal"
+                        android:text="Lentitud"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="12dp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBar"
+                        android:layout_width="match_parent"
+                        android:layout_height="28dp"
+                        android:indeterminate="false"
+                        android:max="255"
+                        android:progress="70" />
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/linearPruebaConexion">
+
+                        <Button
+                            android:id="@+id/buttonOn"
+                            android:layout_width="356dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentTop="true"
+                            android:text="Feliz Cumpleaños" />
+
+                        <Button
+                            android:id="@+id/melodia2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Melodía 2" />
+
+                        <Button
+                            android:id="@+id/button6"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Melodía 3" />
+
+                        <Button
+                            android:id="@+id/button7"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Melodía 4" />
+
+                        <Button
+                            android:id="@+id/button8"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Melodía 5" />
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/button3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Melodía 6" />
+
+                    <Button
+                        android:id="@+id/explorador"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Abrir MIDI" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/linearContenedorSensorHumedadyTemperatura"
+                    android:weightSum="1"
+                    android:id="@+id/Sensores">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+
+
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/txtString"
+            android:layout_width="fill_parent"
+            android:layout_height="57dp"
+            android:layout_alignLeft="@+id/testView1"
+            android:layout_alignParentBottom="true"
+            android:text="Puntaje="
+            android:textSize="15sp" />
+    </LinearLayout>
+</RelativeLayout>

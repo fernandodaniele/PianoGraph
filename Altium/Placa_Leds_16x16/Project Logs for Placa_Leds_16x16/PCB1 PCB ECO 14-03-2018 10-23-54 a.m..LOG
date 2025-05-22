@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=Catodos1 Old Footprint=HDR2X4 New Footprint=HDR2X8
+Change Component Comment : Designator=Catodos1 Old Comment=Comment New Comment=Header 4X2
+Added Pin To Net: NetName=NetCatodos1_1 Pin=Catodos1-1
+Added Pin To Net: NetName=NetCatodos1_2 Pin=Catodos1-2
+Added Pin To Net: NetName=NetCatodos1_3 Pin=Catodos1-3
+Added Pin To Net: NetName=NetCatodos1_4 Pin=Catodos1-4
+Added Pin To Net: NetName=NetCatodos1_5 Pin=Catodos1-5
+Added Pin To Net: NetName=NetCatodos1_6 Pin=Catodos1-6
+Added Pin To Net: NetName=NetCatodos1_7 Pin=Catodos1-7
+Added Pin To Net: NetName=NetCatodos1_8 Pin=Catodos1-8
+Added Member To Class: ClassName=Esquematico LEDS 8x16 Member=Component Catodos1 Header 4X2

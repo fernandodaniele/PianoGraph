@@ -1,0 +1,4 @@
+#Sun Jun 25 14:25:23 ART 2017
+base.0=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_e600d65e25e00c0cfdbf21976e9f22ba01cea756
+renamed.0=classes.dex
+file.0=C\:\\Users\\fernandodaniele\\Desktop\\Tesis-provisorio\\Explorador\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_e600d65e25e00c0cfdbf21976e9f22ba01cea756\\classes.dex

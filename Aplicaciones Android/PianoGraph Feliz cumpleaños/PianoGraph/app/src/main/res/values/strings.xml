@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PianoGraph!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="none_paired">No se puede vincular dispositivo</string>
+</resources>

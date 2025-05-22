@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/lentitud"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="@android:color/background_light"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/muestreo"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/background_dark"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="85sp"
+        android:accessibilityLiveRegion="none"
+        android:background="@android:drawable/alert_dark_frame"
+        android:indeterminate="false"
+        android:max="255"
+        android:progress="70"
+        android:progressDrawable="@android:color/background_light"
+        android:soundEffectsEnabled="true" />
+
+    <Button
+        android:id="@+id/explorador"
+        android:layout_width="match_parent"
+        android:layout_height="85sp"
+        android:background="@android:drawable/alert_light_frame"
+        android:text="@string/abrir"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/detener"
+        android:layout_width="match_parent"
+        android:layout_height="85sp"
+        android:background="@android:drawable/alert_dark_frame"
+        android:text="DETENER"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/puntos"
+        android:layout_width="match_parent"
+        android:layout_height="85sp"
+        android:background="@android:drawable/alert_light_frame"
+        android:text="PUNTAJE"
+        android:textColor="@android:color/background_dark"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtString"
+        android:layout_width="match_parent"
+        android:layout_height="85sp"
+        android:background="@android:drawable/alert_dark_frame"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="PG!"
+        android:textColor="@android:color/background_light"
+        android:textColorHighlight="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textColorLink="@android:color/background_light"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/salir"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:drawable/alert_light_frame"
+        android:text="SALIR"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
